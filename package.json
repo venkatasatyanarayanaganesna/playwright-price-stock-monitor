@@ -1,0 +1,15 @@
+{
+  "name": "price-stock-monitor",
+  "version": "1.0.0",
+  "description": "Watches product pages with Playwright for price drops or stock changes, logs history, and alerts when something changes.",
+  "main": "src/index.js",
+  "scripts": {
+    "check": "node src/index.js check",
+    "check:example": "node src/index.js check --config config.example.json",
+    "history": "node src/index.js history"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0",
+    "commander": "^12.1.0"
+  }
+}

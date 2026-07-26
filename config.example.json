@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "A Light in the Attic",
+      "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+      "priceSelector": "p.price_color",
+      "stockSelector": "p.instock.availability",
+      "targetPrice": 50.0
+    },
+    {
+      "name": "Soumission",
+      "url": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+      "priceSelector": "p.price_color",
+      "stockSelector": "p.instock.availability",
+      "targetPrice": 45.0
+    }
+  ]
+}
