@@ -2870,6 +2870,15 @@
       "targetPrice": 50,
       "timestamp": "2026-10-16T20:13:19.928Z",
       "error": null
+    },
+    {
+      "name": "A Light in the Attic",
+      "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+      "price": 51.77,
+      "inStock": true,
+      "targetPrice": 50,
+      "timestamp": "2026-10-17T02:01:27.925Z",
+      "error": null
     }
   ],
   "https://books.toscrape.com/catalogue/soumission_998/index.html": [
@@ -5742,6 +5751,15 @@
       "inStock": true,
       "targetPrice": 45,
       "timestamp": "2026-10-16T20:13:20.076Z",
+      "error": null
+    },
+    {
+      "name": "Soumission",
+      "url": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+      "price": 50.1,
+      "inStock": true,
+      "targetPrice": 45,
+      "timestamp": "2026-10-17T02:01:28.041Z",
       "error": null
     }
   ]
